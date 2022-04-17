@@ -1,3 +1,5 @@
 - Step 1 : Git init
 - Step 2 : Git Clone
 - Step 3 : Git status
+- Step 4 : Git Checkout -b
+- Step 5 : Git switch
